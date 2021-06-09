@@ -3,9 +3,7 @@ package GAIA.PruebaAutomatizacion;
 
 
 import javax.swing.JOptionPane;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 public class Main 
@@ -33,7 +31,7 @@ public class Main
 		   
 		    	
 		    	String menu = "";
-				menu += "a)	Flujo GAIA                      \n";
+				menu += "a)	Compra con Usuario registrado                     \n";
 				
 
 				
